@@ -5,7 +5,13 @@ Si tratta di un sito per effettuare compravendita di vestiti usati
 
 Descrivo brevemente il contenuto delle cartelle del progetto:
 
-Home: contiene i file relativi alla homepage \n
+Home: contiene i file relativi alla homepage
+
+
+
+
+
+
 js: contiene i file javascript di bootstrap
 PHP files: contiene la maggioranza dei file php del progetto che effettivamente interagiscono col database
 Registrazione: contiene le pagine relative alla fase di login/signup
